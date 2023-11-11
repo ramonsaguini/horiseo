@@ -1,5 +1,4 @@
-
-# Challenge Guide
+<!-- # Challenge Guide -->
 
 Each week, your instructors and TAs will provide a demonstration of the challenge in the classroom.
 
@@ -41,3 +40,46 @@ To submit your application for review, you are required to provide the following
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+<!-- Translate to understanding very well -->
+# Guia do desafio
+
+A cada semana, seus instrutores e TAs farão uma demonstração do desafio em sala de aula.
+
+## Como trabalhar no desafio
+
+O desafio foi projetado para prepará-lo para dois cenários que você encontrará como desenvolvedor:
+
+* Tickets no trabalho ou solicitações de recursos
+
+* Avaliações de codificação em busca de emprego
+
+O desafio do ticket no trabalho fornecerá um código inicial. Você modificará ou adicionará este código para completar o desafio.
+
+As avaliações de codificação para procura de emprego não fornecem código inicial. Você os construirá do zero.
+
+Todas as atribuições de desafio seguem convenções de gerenciamento ágil de projetos, fornecendo uma história de usuário, critérios de aceitação, um modelo demonstrando a funcionalidade do aplicativo e diretrizes de revisão.
+
+### História do usuário
+
+Parte de ser desenvolvedor é se colocar no lugar do seu público e imaginar a experiência dele com o aplicativo que você está criando.
+
+Uma história de usuário, ou persona, é uma descrição de um aplicativo usando linguagem natural e não técnica. Escritos da perspectiva do usuário final do aplicativo, eles ajudam os desenvolvedores a organizar seu trabalho, permitindo-lhes compreender o contexto de um aplicativo e quem o utilizará.
+
+### Critérios de aceitação
+
+Os critérios de aceitação são os requisitos que devem ser atendidos para concluir uma história de usuário. Eles definem os limites da história do usuário e são usados para confirmar quando uma história é concluída.
+
+Esses critérios podem ser considerados instruções sobre como você deve concluir uma tarefa de desafio. Ao planejar como construir o aplicativo, use-os para estruturar suas páginas e pseudocodificar sua lógica. Enquanto você trabalha, revise a lista de critérios de aceitação para ter certeza de que atendeu a todos eles. Uma inscrição só será concluída quando atender a todos esses critérios.
+
+### Análise
+
+No mundo real, quando um desenvolvedor termina de trabalhar em um problema, outro desenvolvedor revisa o código, fornecendo feedback sobre os erros e certificando-se de que todos os critérios de aceitação foram atendidos. Para as tarefas de desafio, seus TAs servirão como revisores.
+
+Para enviar sua inscrição para análise, você deve fornecer o seguinte:
+
+* A URL do aplicativo implantado.
+
+* A URL do repositório GitHub. Dê ao repositório um nome exclusivo e inclua um README descrevendo o projeto.
+
+---
+© 2023 edX Boot Camps LLC. Confidencial e Proprietário. Todos os direitos reservados.
