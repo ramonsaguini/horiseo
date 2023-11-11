@@ -41,7 +41,7 @@ To submit your application for review, you are required to provide the following
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 <!-- Translate to understanding very well -->
-# Guia do desafio
+
 
 A cada semana, seus instrutores e TAs farão uma demonstração do desafio em sala de aula.
 
